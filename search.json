@@ -406,16 +406,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Tyler Wright",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Welcome to my data science portfolio.\n\n\nI am a Computer Science student at BYU-Idaho with experience in programming, machine learning, and data analysis. This site highlights my work and skills.\n\n\n\n\nResume\n\n\n\n\nThis portfolio includes selected work in: - Data Cleaning & Exploration - Machine Learning - Full Stack Development\nUse the navigation bar above to explore."
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Tyler Wright",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "I am a Computer Science student at BYU-Idaho with experience in programming, machine learning, and data analysis. This site highlights my work and skills."
+  },
+  {
+    "objectID": "index.html#navigation",
+    "href": "index.html#navigation",
+    "title": "Tyler Wright",
+    "section": "",
+    "text": "Resume"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Tyler Wright",
+    "section": "",
+    "text": "This portfolio includes selected work in: - Data Cleaning & Exploration - Machine Learning - Full Stack Development\nUse the navigation bar above to explore."
   },
   {
     "objectID": "Machine_Learning/project2.html",
