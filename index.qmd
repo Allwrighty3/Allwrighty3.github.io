@@ -1,10 +1,22 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Tyler Wright"
+subtitle: "Data Science Portfolio"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Tyler Wright
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+Welcome to my data science portfolio.
+
+## About Me
+I am a Computer Science student at BYU-Idaho with experience in programming, machine learning, and data analysis. This site highlights my work and skills.
+
+## Navigation
+- [Resume](resume.qmd)
+
+## Projects
+This portfolio includes selected work in:
+- Data Cleaning & Exploration
+- Machine Learning
+- Full Stack Development
+
+Use the navigation bar above to explore.

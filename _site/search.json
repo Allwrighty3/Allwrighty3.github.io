@@ -1,54 +1,156 @@
 [
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Competition"
+      "Story Telling"
     ]
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Competition"
+      "Story Telling"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Computer Science Student | Machine Learning Focus\n\ntylerwright200012@gmail.com | (916) 247-1251 | LinkedIn\n\n\n\n\nComputer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience.\n\n\n\n\n2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)\n\n\n\n\n\n\n\nCollaborated with a team of 7 to develop a classroom tool for random student selection\n\nImplemented backend logic using JavaScript\n\nDesigned and styled the interface using Sass\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped over 500 lines of clean, maintainable code\n\n\n\n\n\n\nLanguages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTools: VS Code, IntelliJ IDEA, Git\n\n\n\n\nPittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively with a team in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently\n\n\n\n\n2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Computer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Collaborated with a team of 7 to develop a classroom tool for random student selection\n\nImplemented backend logic using JavaScript\n\nDesigned and styled the interface using Sass\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped over 500 lines of clean, maintainable code"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Languages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTools: VS Code, IntelliJ IDEA, Git"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Pittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively with a team in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently"
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
       "Project 3"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Full Stack",
       "Project 4"
     ]
   },
@@ -64,13 +166,33 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
+      "Competition",
       "Project 5"
     ]
   },
@@ -97,22 +219,26 @@
     ]
   },
   {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Data Cleansing",
       "Project 4"
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
   },
   {
     "objectID": "Cleansing_Exploration/project5.html",
@@ -122,60 +248,18 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "cleansing.html",
@@ -198,174 +282,11 @@
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Cleansing_Exploration/project4.html",
@@ -375,27 +296,35 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
       "Project 5"
     ]
   },
@@ -411,14 +340,34 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
+      "Competition",
       "Project 4"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
     ]
   },
   {
@@ -444,45 +393,117 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Full Stack",
       "Project 5"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tyler Wright",
+    "section": "",
+    "text": "Welcome to my data science portfolio.\n\n\nI am a Computer Science student at BYU-Idaho with experience in programming, machine learning, and data analysis. This site highlights my work and skills.\n\n\n\n\nResume\n\n\n\n\nThis portfolio includes selected work in: - Data Cleaning & Exploration - Machine Learning - Full Stack Development\nUse the navigation bar above to explore."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Tyler Wright",
+    "section": "",
+    "text": "I am a Computer Science student at BYU-Idaho with experience in programming, machine learning, and data analysis. This site highlights my work and skills."
+  },
+  {
+    "objectID": "index.html#navigation",
+    "href": "index.html#navigation",
+    "title": "Tyler Wright",
+    "section": "",
+    "text": "Resume"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Tyler Wright",
+    "section": "",
+    "text": "This portfolio includes selected work in: - Data Cleaning & Exploration - Machine Learning - Full Stack Development\nUse the navigation bar above to explore."
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Machine Learning",
       "Project 2"
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack"
+      "Machine Learning",
+      "Project 4"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "ml.html",
+    "href": "ml.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 5"
     ]
   }
 ]

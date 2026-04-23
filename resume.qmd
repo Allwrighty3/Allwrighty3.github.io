@@ -4,7 +4,7 @@ title: Tyler Wright's Resume
 ---
 
 # Tyler Wright
-Computer Science Student | Machine Learning Focus
+Computer Science Senior | Machine Learning & Automation
 
 <div id="webaddress">
 <a href="mailto:tylerwright200012@gmail.com">tylerwright200012@gmail.com</a>
@@ -15,7 +15,7 @@ Computer Science Student | Machine Learning Focus
 ---
 
 ## Summary
-Computer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience.
+Computer Science senior at BYU-Idaho with hands-on experience building real-world automation systems and applying machine learning techniques. Strong background in Python and data processing, with a focus on practical problem-solving, system design, and improving business workflows.
 
 ---
 
@@ -33,31 +33,47 @@ Associate of Science in Electrical Technology (ETEC)
 
 ## Projects
 
-### Random Student Selector (Team Project)
-- Collaborated with a team of 7 to develop a classroom tool for random student selection  
-- Implemented backend logic using JavaScript  
-- Designed and styled the interface using Sass  
+### Automated Purchase Order Document Routing System (Senior Project)
+- Designed and implemented an end-to-end system to automate processing of scanned purchase order PDFs using OCR and rule-based extraction  
+- Built a multi-stage pipeline (PDF → image → OCR → extraction → classification → routing) to reduce manual document sorting  
+- Developed spatial and text-based methods to identify purchase order numbers with heuristic confidence scoring  
+- Integrated Google Drive API to automatically route documents into structured folders based on classification  
+- Implemented logging and batch processing with run-level summaries for monitoring and reliability  
+- Designed system to safely route ambiguous or unsupported documents to manual review  
+
+### Machine Learning Model Development & Evaluation
+- Built and evaluated multiple machine learning models including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Gradient Boosted models  
+- Applied model evaluation techniques using metrics such as accuracy, precision, recall, and confusion matrices  
+- Compared model performance across different approaches and datasets to understand strengths and limitations  
+- Gained experience in feature selection, preprocessing, and avoiding common pitfalls such as data leakage  
 
 ### Tetris Clone (Individual Project)
 - Built a fully functional Tetris game in Rust without prior experience  
 - Applied object-oriented design principles with modular components  
-- Developed over 500 lines of clean, maintainable code  
+- Developed clean, maintainable code with custom game logic  
+
+---
+
+## Work Experience
+
+`Pocatello, ID`  
+__Family Auto Care__  
+- Assisted in improving shop workflows through technical solutions and process optimization  
+- Supported development and testing of internal tools for document handling and organization  
+- Collaborated with team members to integrate new systems into daily operations  
+
+`Pittsburg, CA`  
+__Deli Employee__, TOGO's  
+- Worked collaboratively in a fast-paced environment  
+- Managed customer orders, restocking, and daily operations efficiently  
 
 ---
 
 ## Technical Skills
 
 **Languages:** Python, JavaScript, C++, Java, Rust, Erlang, C#  
-**Tools:** VS Code, IntelliJ IDEA, Git  
-
----
-
-## Work Experience
-
-`Pittsburg, CA`  
-__Deli Employee__, TOGO's  
-- Worked collaboratively with a team in a fast-paced environment  
-- Managed customer orders, restocking, and daily operations efficiently  
+**Technologies:** OCR (Tesseract), Machine Learning, Data Processing  
+**Tools:** Git, VS Code, IntelliJ IDEA  
 
 ---
 
@@ -68,5 +84,3 @@ __Missionary__, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV
 - Studied and communicated in Japanese daily  
 - Conducted planning sessions and submitted weekly reports  
 - Developed strong communication, discipline, and leadership skills  
-
----
