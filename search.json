@@ -20,293 +20,6 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Computer Science Student | Machine Learning Focus\n\ntylerwright200012@gmail.com | (916) 247-1251 | LinkedIn\n\n\n\n\nComputer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience.\n\n\n\n\n2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)\n\n\n\n\n\n\n\nCollaborated with a team of 7 to develop a classroom tool for random student selection\n\nImplemented backend logic using JavaScript\n\nDesigned and styled the interface using Sass\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped over 500 lines of clean, maintainable code\n\n\n\n\n\n\nLanguages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTools: VS Code, IntelliJ IDEA, Git\n\n\n\n\nPittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively with a team in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently\n\n\n\n\n2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
-  },
-  {
-    "objectID": "resume.html#summary",
-    "href": "resume.html#summary",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Computer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)"
-  },
-  {
-    "objectID": "resume.html#projects",
-    "href": "resume.html#projects",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Collaborated with a team of 7 to develop a classroom tool for random student selection\n\nImplemented backend logic using JavaScript\n\nDesigned and styled the interface using Sass\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped over 500 lines of clean, maintainable code"
-  },
-  {
-    "objectID": "resume.html#technical-skills",
-    "href": "resume.html#technical-skills",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Languages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTools: VS Code, IntelliJ IDEA, Git"
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Pittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively with a team in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently"
-  },
-  {
-    "objectID": "resume.html#volunteer-experience",
-    "href": "resume.html#volunteer-experience",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
     "objectID": "Cleansing_Projects/project3.html",
     "href": "Cleansing_Projects/project3.html",
     "title": "Client Report - [Insert Project Title]",
@@ -329,56 +42,36 @@
     ]
   },
   {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Story Telling",
       "Project 2"
     ]
   },
   {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
+      "Story Telling",
       "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
     ]
   },
   {
@@ -432,14 +125,210 @@
     "text": "This portfolio includes selected work in: - Data Cleaning & Exploration - Machine Learning - Full Stack Development\nUse the navigation bar above to explore."
   },
   {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
       "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Computer Science Senior | Machine Learning & Automation\n\ntylerwright200012@gmail.com | (916) 247-1251 | LinkedIn\n\n\n\n\nComputer Science senior at BYU-Idaho with hands-on experience building real-world automation systems and applying machine learning techniques. Strong background in Python and data processing, with a focus on practical problem-solving, system design, and improving business workflows.\n\n\n\n\n2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)\n\n\n\n\n\n\n\nDesigned and implemented an end-to-end system to automate processing of scanned purchase order PDFs using OCR and rule-based extraction\n\nBuilt a multi-stage pipeline (PDF → image → OCR → extraction → classification → routing) to reduce manual document sorting\n\nDeveloped spatial and text-based methods to identify purchase order numbers with heuristic confidence scoring\n\nIntegrated Google Drive API to automatically route documents into structured folders based on classification\n\nImplemented logging and batch processing with run-level summaries for monitoring and reliability\n\nDesigned system to safely route ambiguous or unsupported documents to manual review\n\n\n\n\n\nBuilt and evaluated multiple machine learning models including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Gradient Boosted models\n\nApplied model evaluation techniques using metrics such as accuracy, precision, recall, and confusion matrices\n\nCompared model performance across different approaches and datasets to understand strengths and limitations\n\nGained experience in feature selection, preprocessing, and avoiding common pitfalls such as data leakage\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped clean, maintainable code with custom game logic\n\n\n\n\n\n\nPocatello, ID\nFamily Auto Care\n- Assisted in improving shop workflows through technical solutions and process optimization\n- Supported development and testing of internal tools for document handling and organization\n- Collaborated with team members to integrate new systems into daily operations\nPittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently\n\n\n\n\nLanguages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTechnologies: OCR (Tesseract), Machine Learning, Data Processing\nTools: Git, VS Code, IntelliJ IDEA\n\n\n\n\n2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Computer Science senior at BYU-Idaho with hands-on experience building real-world automation systems and applying machine learning techniques. Strong background in Python and data processing, with a focus on practical problem-solving, system design, and improving business workflows."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Designed and implemented an end-to-end system to automate processing of scanned purchase order PDFs using OCR and rule-based extraction\n\nBuilt a multi-stage pipeline (PDF → image → OCR → extraction → classification → routing) to reduce manual document sorting\n\nDeveloped spatial and text-based methods to identify purchase order numbers with heuristic confidence scoring\n\nIntegrated Google Drive API to automatically route documents into structured folders based on classification\n\nImplemented logging and batch processing with run-level summaries for monitoring and reliability\n\nDesigned system to safely route ambiguous or unsupported documents to manual review\n\n\n\n\n\nBuilt and evaluated multiple machine learning models including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Gradient Boosted models\n\nApplied model evaluation techniques using metrics such as accuracy, precision, recall, and confusion matrices\n\nCompared model performance across different approaches and datasets to understand strengths and limitations\n\nGained experience in feature selection, preprocessing, and avoiding common pitfalls such as data leakage\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped clean, maintainable code with custom game logic"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Pocatello, ID\nFamily Auto Care\n- Assisted in improving shop workflows through technical solutions and process optimization\n- Supported development and testing of internal tools for document handling and organization\n- Collaborated with team members to integrate new systems into daily operations\nPittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "Languages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTechnologies: OCR (Tesseract), Machine Learning, Data Processing\nTools: Git, VS Code, IntelliJ IDEA"
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Tyler Wright’s Resume",
+    "section": "",
+    "text": "2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
     ]
   },
   {
@@ -452,6 +341,62 @@
       "Machine Learning",
       "Project 4"
     ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ml.html",
@@ -474,14 +419,47 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 1"
+      "Project 5"
     ]
   },
   {
@@ -496,14 +474,36 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
-      "Project 5"
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
     ]
   }
 ]
