@@ -4,7 +4,7 @@ title: Tyler Wright's Resume
 ---
 
 # Tyler Wright
-Computer Science Senior | Machine Learning & Automation
+Computer Science Senior | Automation, AI Tools & Business Workflow Systems
 
 <div id="webaddress">
 <a href="mailto:tylerwright200012@gmail.com">tylerwright200012@gmail.com</a>
@@ -15,7 +15,7 @@ Computer Science Senior | Machine Learning & Automation
 ---
 
 ## Summary
-Computer Science senior at BYU-Idaho with hands-on experience building real-world automation systems and applying machine learning techniques. Strong background in Python and data processing, with a focus on practical problem-solving, system design, and improving business workflows.
+Computer Science senior at BYU-Idaho with hands-on experience building automation systems, AI-assisted workflows, and data processing tools for real business problems. Strong background in Python, machine learning concepts, OCR, APIs, and process improvement. Comfortable translating business needs into technical solutions, testing systems with real-world data, and improving workflows for small-business operations.
 
 ---
 
@@ -34,23 +34,25 @@ Associate of Science in Electrical Technology (ETEC)
 ## Projects
 
 ### Automated Purchase Order Document Routing System (Senior Project)
-- Designed and implemented an end-to-end system to automate processing of scanned purchase order PDFs using OCR and rule-based extraction  
-- Built a multi-stage pipeline (PDF → image → OCR → extraction → classification → routing) to reduce manual document sorting  
-- Developed spatial and text-based methods to identify purchase order numbers with heuristic confidence scoring  
-- Integrated Google Drive API to automatically route documents into structured folders based on classification  
-- Implemented logging and batch processing with run-level summaries for monitoring and reliability  
-- Designed system to safely route ambiguous or unsupported documents to manual review  
+- Designed and implemented an end-to-end automation system for processing scanned purchase order PDFs in a real automotive repair business
+- Built a multi-stage Python pipeline for PDF conversion, OCR processing, text extraction, document classification, and Google Drive routing
+- Used Tesseract OCR, Poppler/PDF2Image, regex, and spatial text analysis to identify purchase order numbers from image-based documents
+- Developed rule-based classification logic for normal purchase orders, returns, no-PO documents, and manual review cases
+- Integrated the Google Drive API to route documents into structured destination folders based on classification results
+- Added logging, batch processing, and run-level summaries to support monitoring, testing, and reliability
+- Evaluated machine learning as an enhancement for predicting whether documents should be routed to manual review
 
 ### Machine Learning Model Development & Evaluation
-- Built and evaluated multiple machine learning models including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Gradient Boosted models  
-- Applied model evaluation techniques using metrics such as accuracy, precision, recall, and confusion matrices  
-- Compared model performance across different approaches and datasets to understand strengths and limitations  
-- Gained experience in feature selection, preprocessing, and avoiding common pitfalls such as data leakage  
+- Built and evaluated machine learning models including Convolutional Neural Networks, Recurrent Neural Networks, and Gradient Boosted models
+- Applied preprocessing, feature engineering, model training, and evaluation across multiple datasets
+- Used metrics such as accuracy, precision, recall, F1 score, ROC-AUC, and confusion matrices to compare model performance
+- Analyzed model strengths, limitations, and common risks such as overfitting and data leakage
+- Created clear summaries of model performance for decision-making and project reporting
 
 ### Tetris Clone (Individual Project)
-- Built a fully functional Tetris game in Rust without prior experience  
-- Applied object-oriented design principles with modular components  
-- Developed clean, maintainable code with custom game logic  
+- Built a fully functional Tetris game in Rust while learning the language independently
+- Designed modular game components for movement, collision detection, scoring, and board state management
+- Applied object-oriented and structured programming principles to produce clean, maintainable code
 
 ---
 
@@ -58,22 +60,28 @@ Associate of Science in Electrical Technology (ETEC)
 
 `Pocatello, ID`  
 __Family Auto Care__  
-- Assisted in improving shop workflows through technical solutions and process optimization  
-- Supported development and testing of internal tools for document handling and organization  
-- Collaborated with team members to integrate new systems into daily operations  
+- Identified business workflow problems and developed technical solutions to reduce repetitive manual work
+- Built and tested internal automation tools for document handling, file organization, and operational efficiency
+- Worked directly with real business users to understand requirements, test edge cases, and improve system usability
+- Supported process improvement efforts by combining technical development with practical shop operations knowledge
+- Assisted with daily business operations, giving a strong understanding of how technology affects customer service, productivity, and staff workload
 
 `Pittsburg, CA`  
 __Deli Employee__, TOGO's  
-- Worked collaboratively in a fast-paced environment  
-- Managed customer orders, restocking, and daily operations efficiently  
+- Worked collaboratively in a fast-paced customer service environment
+- Managed customer orders, restocking, and daily operational tasks efficiently
+- Developed communication, reliability, and time-management skills
 
 ---
 
 ## Technical Skills
 
 **Languages:** Python, JavaScript, C++, Java, Rust, Erlang, C#  
-**Technologies:** OCR (Tesseract), Machine Learning, Data Processing  
-**Tools:** Git, VS Code, IntelliJ IDEA  
+**Automation & AI Tools:** OCR, Tesseract, PDF2Image, rule-based classification, machine learning workflows  
+**Data & ML:** scikit-learn, pandas, NumPy, model evaluation, feature preprocessing, confusion matrices  
+**APIs & Integrations:** Google Drive API, file routing automation, batch processing  
+**Development Tools:** Git, VS Code, IntelliJ IDEA, command-line workflows  
+**Business/Workflow Skills:** Process improvement, requirements gathering, documentation, testing, troubleshooting
 
 ---
 
@@ -81,6 +89,6 @@ __Deli Employee__, TOGO's
 
 `2020 – 2022`  
 __Missionary__, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV  
-- Studied and communicated in Japanese daily  
-- Conducted planning sessions and submitted weekly reports  
-- Developed strong communication, discipline, and leadership skills  
+- Studied and communicated in Japanese daily
+- Conducted planning sessions and submitted weekly reports
+- Developed strong communication, discipline, leadership, and problem-solving skills
