@@ -59,7 +59,7 @@ Associate of Science in Electrical Technology (ETEC)
 ## Work Experience
 
 `Pocatello, ID`  
-__Family Auto Care__  
+### Family Auto Care  
 - Identified business workflow problems and developed technical solutions to reduce repetitive manual work
 - Built and tested internal automation tools for document handling, file organization, and operational efficiency
 - Worked directly with real business users to understand requirements, test edge cases, and improve system usability
@@ -67,7 +67,7 @@ __Family Auto Care__
 - Assisted with daily business operations, giving a strong understanding of how technology affects customer service, productivity, and staff workload
 
 `Pittsburg, CA`  
-__Deli Employee__, TOGO's  
+### TOGO's  
 - Worked collaboratively in a fast-paced customer service environment
 - Managed customer orders, restocking, and daily operational tasks efficiently
 - Developed communication, reliability, and time-management skills
