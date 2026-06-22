@@ -44,51 +44,51 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Tyler Wright’s Resume",
+    "title": "Tyler Wright",
     "section": "",
-    "text": "Computer Science Student | Machine Learning Focus\n\ntylerwright200012@gmail.com | (916) 247-1251 | LinkedIn\n\n\n\n\nComputer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience.\n\n\n\n\n2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)\n\n\n\n\n\n\n\nCollaborated with a team of 7 to develop a classroom tool for random student selection\n\nImplemented backend logic using JavaScript\n\nDesigned and styled the interface using Sass\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped over 500 lines of clean, maintainable code\n\n\n\n\n\n\nLanguages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTools: VS Code, IntelliJ IDEA, Git\n\n\n\n\nPittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively with a team in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently\n\n\n\n\n2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
+    "text": "layout: cv title: Tyler Wright’s Resume —"
   },
   {
     "objectID": "resume.html#summary",
     "href": "resume.html#summary",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Computer Science senior at BYU-Idaho with a strong foundation in object-oriented programming and machine learning. Experienced in Python, JavaScript, Rust, and C#, with a focus on building efficient and practical solutions. Quick learner with strong problem-solving skills and collaborative project experience."
+    "title": "Tyler Wright",
+    "section": "Summary",
+    "text": "Summary\nComputer Science senior at BYU-Idaho focused on AI-assisted workflows, business automation, backend systems, and practical technology solutions for real organizations. Experienced building Python automation pipelines, OCR-based document processing tools, Google Drive API integrations, machine learning projects, and Elixir/OTP systems. Strong at translating business needs into tested technical solutions that improve workflow efficiency, usability, and operational reliability."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "2023 – Present\nBrigham Young University - Idaho, Rexburg, ID\nBachelor of Science in Computer Science\n2018 – 2022\nLos Medanos College, Pittsburg, CA\nAssociate of Science in Electrical Technology (ETEC)"
+    "title": "Tyler Wright",
+    "section": "Education",
+    "text": "Education\n2023 – Present Brigham Young University - Idaho, Rexburg, ID Bachelor of Science in Computer Science\n2018 – 2022 Los Medanos College, Pittsburg, CA Associate of Science in Electrical Technology"
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Collaborated with a team of 7 to develop a classroom tool for random student selection\n\nImplemented backend logic using JavaScript\n\nDesigned and styled the interface using Sass\n\n\n\n\n\nBuilt a fully functional Tetris game in Rust without prior experience\n\nApplied object-oriented design principles with modular components\n\nDeveloped over 500 lines of clean, maintainable code"
+    "title": "Tyler Wright",
+    "section": "Projects",
+    "text": "Projects\n\nAutomated Purchase Order Document Routing System — Senior Project\n\nDesigned and implemented an end-to-end Python automation system for processing scanned purchase order PDFs in a real automotive repair business\nBuilt a multi-stage pipeline for PDF conversion, OCR processing, text extraction, document classification, and Google Drive routing\nUsed Tesseract OCR, Poppler/PDF2Image, regex, and spatial text analysis to identify purchase order numbers from image-based documents\nDeveloped rule-based classification logic for purchase orders, returns, no-PO documents, and manual review cases\nIntegrated the Google Drive API to route documents into structured destination folders based on classification results\nAdded logging, batch processing, and run-level summaries to support testing, troubleshooting, and operational reliability\nBuilt around real business requirements, edge cases, and user workflow needs to reduce repetitive manual file handling\n\n\n\nProcession — Elixir/OTP RPG Simulation System\n\nDesigned and developed a personal single-player RPG simulation project using Elixir and OTP as the authoritative simulation kernel\nBuilt architecture around supervised entity processes, message passing, world ticks, agent state, memory, dialogue constraints, and behavior validation\nCreated a separation between inert world data, active simulation scopes, and live entity processes to support scalable world generation\nImplemented rule-based NPC dialogue systems that track relationship context, trust changes, topic pressure, and disclosure boundaries\nDesigned AI-assisted content workflows where generated behavior metadata is treated as untrusted data until validated by deterministic Elixir systems\nAdded SQLite-backed world storage to support durable world data while keeping live simulation state under OTP supervision\nBuilt tests and IEx/demo workflows to verify player-facing behavior, NPC responses, internal state changes, and simulation rules\n\n\n\nMachine Learning Model Development & Evaluation\n\nBuilt and evaluated supervised learning and deep learning models using Python, pandas, NumPy, and scikit-learn\nApplied preprocessing, feature engineering, train/test evaluation, and model comparison across multiple datasets\nUsed confusion matrices, precision, recall, F1 score, ROC-AUC, and overfitting analysis to explain model performance\nCreated clear summaries of model results for decision-making and project reporting\n\n\n\nTetris Clone — Rust Individual Project\n\nBuilt an early-stage Tetris clone in Rust while learning the language independently\nImplemented core game mechanics including piece movement, board state management, and collision detection\nDesigned modular components to organize game logic and improve maintainability\nUsed the project to strengthen understanding of Rust ownership, control flow, and structured game development"
   },
   {
     "objectID": "resume.html#technical-skills",
     "href": "resume.html#technical-skills",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Languages: Python, JavaScript, C++, Java, Rust, Erlang, C#\nTools: VS Code, IntelliJ IDEA, Git"
+    "title": "Tyler Wright",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nPrimary Languages: Python, Elixir, Erlang\nAdditional Languages: JavaScript, Rust, C++, Java, C#\nAutomation & AI Tools: OCR, Tesseract, PDF2Image, rule-based classification, AI-assisted workflows, local model evaluation\nWeb & Business Technology: JavaScript, API integrations, workflow automation, user-focused tools, business process improvement\nData & Machine Learning: scikit-learn, pandas, NumPy, preprocessing, feature engineering, model evaluation, confusion matrices\nBackend & Systems: Elixir/OTP, supervision trees, process-based architecture, message passing, SQLite, command-line workflows\nAPIs & Integrations: Google Drive API, file routing automation, batch processing, JSON/JSONL workflows\nDevelopment Tools: Git, VS Code, IntelliJ IDEA, Linux, terminal-based development\nBusiness & Workflow Skills: Requirements gathering, documentation, testing, troubleshooting, user support, process improvement"
   },
   {
     "objectID": "resume.html#work-experience",
     "href": "resume.html#work-experience",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "Pittsburg, CA\nDeli Employee, TOGO’s\n- Worked collaboratively with a team in a fast-paced environment\n- Managed customer orders, restocking, and daily operations efficiently"
+    "title": "Tyler Wright",
+    "section": "Work Experience",
+    "text": "Work Experience\nPocatello, ID Family Auto Care — Business Workflow Automation Developer\n\nIdentified business workflow problems and developed technical solutions to reduce repetitive manual work\nBuilt and tested internal automation tools for document handling, file organization, and operational efficiency\nWorked directly with real business users to understand requirements, test edge cases, and improve system usability\nSupported process improvement efforts by combining technical development with practical shop operations knowledge\nAssisted with daily business operations, gaining firsthand experience with how technology affects customer service, productivity, and staff workload\nHelped connect technical improvements to practical business outcomes such as faster document handling, better organization, and reduced manual follow-up\n\nPittsburg, CA TOGO’s — Team Member\n\nWorked in a fast-paced customer service environment requiring reliability, communication, time management, and attention to detail"
   },
   {
     "objectID": "resume.html#volunteer-experience",
     "href": "resume.html#volunteer-experience",
-    "title": "Tyler Wright’s Resume",
-    "section": "",
-    "text": "2020 – 2022\nMissionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n- Studied and communicated in Japanese daily\n- Conducted planning sessions and submitted weekly reports\n- Developed strong communication, discipline, and leadership skills"
+    "title": "Tyler Wright",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n2020 – 2022 Missionary, The Church of Jesus Christ of Latter-day Saints, Las Vegas, NV\n\nServed full-time in a role requiring daily planning, communication, service coordination, goal tracking, and weekly reporting\nContinued regular Japanese language study while serving\nDeveloped communication, discipline, adaptability, leadership, and problem-solving skills"
   },
   {
     "objectID": "Machine_Learning/project5.html",
