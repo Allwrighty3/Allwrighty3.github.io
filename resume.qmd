@@ -75,8 +75,7 @@ Associate of Science in Electrical Technology
 ## Work Experience
 
 `Pocatello, ID`
-
-### Family Auto Care — Business Workflow Automation Developer
+**Family Auto Care — Business Workflow Automation Developer**
 
 * Identified business workflow problems and developed technical solutions to reduce repetitive manual work
 * Built and tested internal automation tools for document handling, file organization, and operational efficiency
@@ -86,10 +85,10 @@ Associate of Science in Electrical Technology
 * Helped connect technical improvements to practical business outcomes such as faster document handling, better organization, and reduced manual follow-up
 
 `Pittsburg, CA`
-
-### TOGO's — Team Member
+**TOGO's — Team Member**
 
 * Worked in a fast-paced customer service environment requiring reliability, communication, time management, and attention to detail
+
 
 ---
 
